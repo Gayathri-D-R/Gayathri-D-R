@@ -1,5 +1,5 @@
 # Gayathri.DR
-[![MasterHead](https://www.techpocket.org/wp-content/uploads/2020/07/Website-Development-Company.jpg)]
+![MasterHead](https://www.techpocket.org/wp-content/uploads/2020/07/Website-Development-Company.jpg)
 <h1 align="center">Hi 👋, I'm Gayathri D R</h1>
 <h3 align="center">A passionate Full stack developer from Bangalore</h3>
 <img align="right" alt="Coding" width="400"  src="https://www.slashgear.com/img/gallery/microsoft-privacy-dashboard-shows-what-microsoft-knows-about-you/intro-import.webp"/>
