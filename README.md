@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **gayathri.ramakrishna158@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Admin/Downloads/Gayathri's%20Resume%20(3).pdf](file:///C:/Users/Admin/Downloads/Gayathri's%20Resume%20(3).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZOz5zmttpl04XBwQW5s3jSo9DvSNZb3R/view?usp=share_link](https://drive.google.com/file/d/1ZOz5zmttpl04XBwQW5s3jSo9DvSNZb3R/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
